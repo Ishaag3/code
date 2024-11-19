@@ -1,5 +1,5 @@
-# code
-Tic tac toe 
+pip install numpy pandas matplotlib scikit-learn textblob nltk
+(Tic tac toe 
 import random
 
 board = [" "] * 9
@@ -642,8 +642,7 @@ def predict_sentiment(new_text):
 
 # Testing the function with new examples
 print("Sentiment of 'I loved the experience':", predict_sentiment('I loved the experience'))
-print("Sentiment of 'The movie was terrible':", predict_sentiment('The movie was terrible'))
+print("Sentiment of 'The movie was terrible':", predict_sentiment('The movie was terrible')) )
 
-pip install numpy pandas matplotlib scikit-learn textblob nltk
 
 
